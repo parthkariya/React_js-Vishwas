@@ -14,7 +14,7 @@ const InvestorDesk2 = () => {
     <div className="InvestorDesk_main">
       <div>
         <h1 className="red_heading" style={{ paddingTop: "1rem" }}>
-          Investor Desk
+          {item?.title}
         </h1>
       </div>
 

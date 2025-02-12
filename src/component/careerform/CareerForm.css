@@ -34,7 +34,8 @@
   padding: 1rem;
 }
 .form_head_career {
-  background-color: white;
+  /* background-color: white; */
+  background-color: transparent;
   border-bottom: 3px solid;
 }
 
@@ -50,7 +51,6 @@
   display: flex;
   justify-content: center;
   margin: 2rem;
-  
 }
 
 @media screen and (max-width: 1180px) {

@@ -18,7 +18,7 @@ const Data = [
     child: [
       {
         id: 1,
-        title: "2024 Reports",
+        title: "Financial Reports 2023-24",
         docs: require("../../asset/Financial Reports - 2024.pdf"),
       },
     ],
@@ -36,7 +36,7 @@ const Data = [
     child: [
       {
         id: 1,
-        title: "Annual Report for 2023-24",
+        title: "Annual Report 2023-24",
         docs: require("../../asset/Annual Reports.pdf"),
       },
     ],
@@ -45,7 +45,23 @@ const Data = [
     id: 5,
     title: "Policies",
     logo: images.policy,
-    child: [],
+    child: [
+      {
+        id: 1,
+        title: "Preservation Of Documents",
+        docs: require("../../asset/Policy On Preservation Of Documents.pdf"),
+      },
+      {
+        id: 2,
+        title: "Related Party Transactions",
+        docs: require("../../asset/Policy On Related Party Transactions.pdf"),
+      },
+      {
+        id: 3,
+        title: "Archival Policy",
+        docs: require("../../asset/Archival Policy.pdf"),
+      },
+    ],
   },
   {
     id: 6,
@@ -54,7 +70,7 @@ const Data = [
     child: [
       {
         id: 1,
-        title: "Vishwas Refoils & consumer ltd",
+        title: "Shareholding Pattern 31-03-2024",
         docs: require("../../asset/Shareholding Pattern_31.03.2024.pdf"),
       },
     ],
@@ -84,7 +100,7 @@ const Data = [
     child: [
       {
         id: 1,
-        title: "Annual Return",
+        title: "Annual Return 2023-24",
         docs: require("../../asset/Annual Return - 2024.pdf"),
       },
     ],

@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.49cd2363.css",
-    "main.js": "/static/js/main.34b2f0bf.js",
+    "main.css": "/static/css/main.1c230491.css",
+    "main.js": "/static/js/main.9e936874.js",
     "static/media/Refined_PalmoleinOil_set.png": "/static/media/Refined_PalmoleinOil_set.dcb3b2f62ad1b0912546.png",
     "static/media/Refined_Sunflower_Oil_set.png": "/static/media/Refined_Sunflower_Oil_set.30ff278fbfd665e2a9ee.png",
     "static/media/Refined_Cottonseed_Oil_set.png": "/static/media/Refined_Cottonseed_Oil_set.a39e832bffc18d526129.png",
@@ -11,8 +11,11 @@
     "static/media/groundnut_Oil_set.png": "/static/media/groundnut_Oil_set.27061837c60d73df2715.png",
     "static/media/flower.png": "/static/media/flower.c0f5980e310c3263234a.png",
     "static/media/mild_mustered_all_single_pro.png": "/static/media/mild_mustered_all_single_pro.8eb18afa7c5061674d33.png",
+    "static/media/Annual Reports.pdf": "/static/media/Annual Reports.6146a1bef14f504df61a.pdf",
     "static/media/mustered_hero_img.png": "/static/media/mustered_hero_img.aa50e480a02f253deb70.png",
+    "static/media/Financial Reports - 2024.pdf": "/static/media/Financial Reports - 2024.bd18e2e0151e11d52189.pdf",
     "static/media/Pav-Bhaji.png": "/static/media/Pav-Bhaji.398d14e7c95cd490dce8.png",
+    "static/media/Annual Return - 2024.pdf": "/static/media/Annual Return - 2024.8e93144ae714943d60ee.pdf",
     "static/media/Palak-Paneer.png": "/static/media/Palak-Paneer.bde07e5290864e421783.png",
     "static/media/mustered_mild_bg.jpg": "/static/media/mustered_mild_bg.a61265e9e8db2be25c06.jpg",
     "static/media/Fafda-Jalebi.png": "/static/media/Fafda-Jalebi.3a0ca60d93ac6a442067.png",
@@ -28,18 +31,22 @@
     "static/media/about-certificate_3.jpeg": "/static/media/about-certificate_3.55f9ad9cd713cf7f6a16.jpeg",
     "static/media/palmolean_hero_bg.jpeg": "/static/media/palmolean_hero_bg.7a66d6c98e71c220d193.jpeg",
     "static/media/Product-Slider-5.png": "/static/media/Product-Slider-5.fb9ad3973c9c11423d49.png",
+    "static/media/Policy On Preservation Of Documents.pdf": "/static/media/Policy On Preservation Of Documents.b3a8848e68e6431143c7.pdf",
     "static/media/Product-Slider-2.png": "/static/media/Product-Slider-2.d43f7e7d0b63d27754ef.png",
     "static/media/Product-Slider-3.png": "/static/media/Product-Slider-3.37e04821f6995a00449e.png",
+    "static/media/Policy On Related Party Transactions.pdf": "/static/media/Policy On Related Party Transactions.34c7906ed865d00ee81c.pdf",
     "static/media/cotton.png": "/static/media/cotton.fcca87c5d541afe3578a.png",
     "static/media/Product-Slider-6.png": "/static/media/Product-Slider-6.e8eb20623b2a11177846.png",
     "static/media/home_bg.png": "/static/media/home_bg.6fa711f76bf277aa2207.png",
     "static/media/Palmolean_Products.png": "/static/media/Palmolean_Products.8b836bc1e0c51c9ea00e.png",
     "static/media/CottonseedOil_Products.png": "/static/media/CottonseedOil_Products.8eaeff4cf79cf96ddff3.png",
+    "static/media/Archival Policy.pdf": "/static/media/Archival Policy.9a6d5fdd87d0a096fc92.pdf",
     "static/media/palmolean_hero_change_big.png": "/static/media/palmolean_hero_change_big.344f401af346b274b672.png",
     "static/media/cotton_hero_bg.jpg": "/static/media/cotton_hero_bg.bcce6587ee862e63a511.jpg",
     "static/media/cotton_hero_big.png": "/static/media/cotton_hero_big.595750fc3610ad6e546e.png",
     "static/media/CornOil_Products.png": "/static/media/CornOil_Products.9042f65d0cb90f700a76.png",
     "static/media/team.jpeg": "/static/media/team.06bb0f356bfebd896aee.jpeg",
+    "static/media/about-certificate_4.jpg": "/static/media/about-certificate_4.9de1188bbaa2f081399c.jpg",
     "static/media/corn_hero_big.png": "/static/media/corn_hero_big.994ae8dd0a3c514dffa8.png",
     "static/media/mustered_hero_img_inner.png": "/static/media/mustered_hero_img_inner.1b33388f84e733aff0d8.png",
     "static/media/GroundnutOil_Products.png": "/static/media/GroundnutOil_Products.c335a16f0806484e46e3.png",
@@ -50,6 +57,7 @@
     "static/media/SoyabeanOil_Products.png": "/static/media/SoyabeanOil_Products.d0636e08096c9ffcafe5.png",
     "static/media/Footer_img.png": "/static/media/Footer_img.41564ab2173a4065c0e6.png",
     "static/media/soya_hero_big.png": "/static/media/soya_hero_big.1627d418f26f458267a2.png",
+    "static/media/Shareholding Pattern_31.03.2024.pdf": "/static/media/Shareholding Pattern_31.03.2024.7e35eab98b770744a6ad.pdf",
     "static/media/Mustard_mild_oil.png": "/static/media/Mustard_mild_oil.2f23334e47844bc94272.png",
     "static/media/img_benifit.jpeg": "/static/media/img_benifit.55c74e44f68beede40bd.jpeg",
     "static/media/sunflower_can.png": "/static/media/sunflower_can.587569a2b5d7e229f31d.png",
@@ -86,6 +94,7 @@
     "static/media/Flipkart_logo.png": "/static/media/Flipkart_logo.d3a0ee1531b6e8a7476f.png",
     "static/media/insta-img1.png": "/static/media/insta-img1.8ea85c81aa7a832231a1.png",
     "static/media/professional_development.png": "/static/media/professional_development.d7bc018d6ab6debd03ff.png",
+    "static/media/transaction.png": "/static/media/transaction.2b6fe6fec90f4aa31899.png",
     "static/media/soft_skills.png": "/static/media/soft_skills.8996438b75c835296a00.png",
     "static/media/udaan_logo.png": "/static/media/udaan_logo.8bac87f1e8c678066aa2.png",
     "static/media/fb-social-img.png": "/static/media/fb-social-img.3961065409e813692921.png",
@@ -100,11 +109,11 @@
     "static/media/linkdin.png": "/static/media/linkdin.a2c054691291d49eab96.png",
     "static/media/carrer_cartoon_img.webp": "/static/media/carrer_cartoon_img.ac6559c0470d79600667.webp",
     "index.html": "/index.html",
-    "main.49cd2363.css.map": "/static/css/main.49cd2363.css.map",
-    "main.34b2f0bf.js.map": "/static/js/main.34b2f0bf.js.map"
+    "main.1c230491.css.map": "/static/css/main.1c230491.css.map",
+    "main.9e936874.js.map": "/static/js/main.9e936874.js.map"
   },
   "entrypoints": [
-    "static/css/main.49cd2363.css",
-    "static/js/main.34b2f0bf.js"
+    "static/css/main.1c230491.css",
+    "static/js/main.9e936874.js"
   ]
 }
