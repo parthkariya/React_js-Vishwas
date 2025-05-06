@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1c230491.css",
-    "main.js": "/static/js/main.9e936874.js",
+    "main.css": "/static/css/main.c4ef6f9c.css",
+    "main.js": "/static/js/main.c11a7d0c.js",
     "static/media/Refined_PalmoleinOil_set.png": "/static/media/Refined_PalmoleinOil_set.dcb3b2f62ad1b0912546.png",
     "static/media/Refined_Sunflower_Oil_set.png": "/static/media/Refined_Sunflower_Oil_set.30ff278fbfd665e2a9ee.png",
     "static/media/Refined_Cottonseed_Oil_set.png": "/static/media/Refined_Cottonseed_Oil_set.a39e832bffc18d526129.png",
@@ -30,6 +30,7 @@
     "static/media/Product-Slider-1.png": "/static/media/Product-Slider-1.3653c3ade23a43708c3d.png",
     "static/media/about-certificate_3.jpeg": "/static/media/about-certificate_3.55f9ad9cd713cf7f6a16.jpeg",
     "static/media/palmolean_hero_bg.jpeg": "/static/media/palmolean_hero_bg.7a66d6c98e71c220d193.jpeg",
+    "static/media/rice_bran_hero_bg.jpeg": "/static/media/rice_bran_hero_bg.56a750254ce939e44ea6.jpeg",
     "static/media/Product-Slider-5.png": "/static/media/Product-Slider-5.fb9ad3973c9c11423d49.png",
     "static/media/Policy On Preservation Of Documents.pdf": "/static/media/Policy On Preservation Of Documents.b3a8848e68e6431143c7.pdf",
     "static/media/Product-Slider-2.png": "/static/media/Product-Slider-2.d43f7e7d0b63d27754ef.png",
@@ -38,7 +39,9 @@
     "static/media/cotton.png": "/static/media/cotton.fcca87c5d541afe3578a.png",
     "static/media/Product-Slider-6.png": "/static/media/Product-Slider-6.e8eb20623b2a11177846.png",
     "static/media/home_bg.png": "/static/media/home_bg.6fa711f76bf277aa2207.png",
+    "static/media/rice_barn_singpro2.png": "/static/media/rice_barn_singpro2.97d255128e6b0f4a1497.png",
     "static/media/Palmolean_Products.png": "/static/media/Palmolean_Products.8b836bc1e0c51c9ea00e.png",
+    "static/media/rice_barn_singpro1.png": "/static/media/rice_barn_singpro1.f97ba84588c40b117ba8.png",
     "static/media/CottonseedOil_Products.png": "/static/media/CottonseedOil_Products.8eaeff4cf79cf96ddff3.png",
     "static/media/Archival Policy.pdf": "/static/media/Archival Policy.9a6d5fdd87d0a096fc92.pdf",
     "static/media/palmolean_hero_change_big.png": "/static/media/palmolean_hero_change_big.344f401af346b274b672.png",
@@ -59,6 +62,7 @@
     "static/media/soya_hero_big.png": "/static/media/soya_hero_big.1627d418f26f458267a2.png",
     "static/media/Shareholding Pattern_31.03.2024.pdf": "/static/media/Shareholding Pattern_31.03.2024.7e35eab98b770744a6ad.pdf",
     "static/media/Mustard_mild_oil.png": "/static/media/Mustard_mild_oil.2f23334e47844bc94272.png",
+    "static/media/rice_bran_hero_bg.png": "/static/media/rice_bran_hero_bg.7cac93d302022021e67b.png",
     "static/media/img_benifit.jpeg": "/static/media/img_benifit.55c74e44f68beede40bd.jpeg",
     "static/media/sunflower_can.png": "/static/media/sunflower_can.587569a2b5d7e229f31d.png",
     "static/media/groundnut_can.png": "/static/media/groundnut_can.e190ea2f1038713014bb.png",
@@ -109,11 +113,11 @@
     "static/media/linkdin.png": "/static/media/linkdin.a2c054691291d49eab96.png",
     "static/media/carrer_cartoon_img.webp": "/static/media/carrer_cartoon_img.ac6559c0470d79600667.webp",
     "index.html": "/index.html",
-    "main.1c230491.css.map": "/static/css/main.1c230491.css.map",
-    "main.9e936874.js.map": "/static/js/main.9e936874.js.map"
+    "main.c4ef6f9c.css.map": "/static/css/main.c4ef6f9c.css.map",
+    "main.c11a7d0c.js.map": "/static/js/main.c11a7d0c.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c230491.css",
-    "static/js/main.9e936874.js"
+    "static/css/main.c4ef6f9c.css",
+    "static/js/main.c11a7d0c.js"
   ]
 }

@@ -47,6 +47,7 @@ const Navbar = () => {
                   <Link to="/SoyabeanOil"> Refined Soyabean Oil</Link>
                   <Link to="/MustardOil"> Filtered Mustard Oil Kachi Ghani </Link>
                   <Link to="/MildMustard"> Filtered Mild Mustard Oil </Link>
+                  <Link to="/RiceBarn"> Refined Rice Bran Oil </Link>
                 </div>
               </div>
 
@@ -75,6 +76,7 @@ const Navbar = () => {
                   <i className="fa fa-caret-down"></i>
                 </Link>
                 <div className="dropdown-content">
+                <Link to="https://deodap.in/products/mustard-cake-fertilizer-for-plants-900gm?variant=51781156471094">Mustard Cake</Link>
                 <Link to="https://deodap.in/search?q=Vishwas">DeoDap</Link>
 
                   <Link to="https://www.amazon.in/l/27943762031?ie=UTF8&marketplaceID=A21TJRUUN4KGV&me=A33TVR7FZVY48E">

@@ -167,6 +167,9 @@ const Footer = () => {
               <a href="/MildMustard" className="footerlinksmaininer">
               Filtered Mild Mustard Oil
               </a>
+              <a href="/RiceBarn" className="footerlinksmaininer">
+              Refined Rice Bran Oil
+              </a>
             </div>
           </div>
         </div>

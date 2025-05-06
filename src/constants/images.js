@@ -149,6 +149,10 @@ import mustered_mild_bg from "../asset/mustered_mild_bg.jpg";
 import mustard_mild_oil from "../asset/Mustard_mild_oil.png";
 import mustard_mild_single_pro from "../asset/mild_mustered_single_pro.png";
 import mustard_mild_all_single_pro from "../asset/mild_mustered_all_single_pro.png";
+import rice_bran_hero_bg from "../asset/rice_bran_hero_bg.png";
+import rice_bran_hero_bgg from "../asset/rice_bran_hero_bg.jpeg";
+import rice_barn_singpro1 from "../asset/rice_barn_singpro1.png";
+import rice_barn_singpro2 from "../asset/rice_barn_singpro2.png";
 import transaction from '../asset/transaction.png'
 
 export default {
@@ -284,4 +288,8 @@ export default {
   mustard_mild_oil,
   mustard_mild_single_pro,
   mustard_mild_all_single_pro,
+  rice_bran_hero_bg,
+  rice_bran_hero_bgg,
+  rice_barn_singpro1,
+  rice_barn_singpro2,
 };

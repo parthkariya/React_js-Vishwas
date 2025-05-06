@@ -308,6 +308,75 @@ const HeroSlider = () => {
             </div>
           </div>
         </div>
+
+        {/* <div>
+          <div
+            className="pro_sunflower"
+            style={{
+              backgroundImage: `url(${images.mustered_mild_bg})`,
+              backgroundPosition: "inherit",
+              backdropFilter: "blur(2px)",
+              backgroundSize: "cover",
+              width: "100%",
+              height: "85vh",
+              display: "flex",
+              alignItems: "center",
+            }}>
+            <div
+              style={{
+                backgroundColor: "rgba(0,0,0,.403)",
+                width: "100%",
+                height: "100%",
+              }}>
+              <div className="hero_content_main">
+                <div className="product_heading">
+                  <h1>Filtered Mild Mustard Oil </h1>
+                </div>
+                <div className="product_image_main">
+                  <img
+                    src={images.mustard_mild_oil}
+                    className="product_image"
+                    alt=""
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div> */}
+        <div>
+          <div
+            className="pro_sunflower"
+            style={{
+              backgroundImage: `url(${images.rice_bran_hero_bgg})`,
+              backgroundPosition: "inherit",
+              backdropFilter: "blur(2px)",
+              backgroundSize: "cover",
+              width: "100%",
+              height: "85vh",
+              display: "flex",
+              alignItems: "center",
+            }}>
+            <div
+              style={{
+                backgroundColor: "rgba(0,0,0,.403)",
+                width: "100%",
+                height: "100%",
+              }}>
+              <div className="hero_content_main">
+                <div className="product_heading">
+                  <h1>Refined Rice Barn Oil</h1>
+                </div>
+                <div className="product_image_main">
+                  <img
+                    src={images.rice_bran_hero_bg}
+                    className="product_image"
+                    alt=""
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
       </Carousel>
     </div>
   );

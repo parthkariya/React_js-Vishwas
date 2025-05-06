@@ -31,6 +31,7 @@ import { FaWhatsapp } from "react-icons/fa";
 import Mustard from "./pages/mustard/Mustard";
 import MildMustard from "./pages/mildmustard/MildMustard";
 import InvestorDesk2 from "./pages/investor_desk2/InvestorDesk2";
+import RiceBarn from "./pages/ricebarn/RiceBarn";
 function App() {
   return (
     <>
@@ -46,6 +47,7 @@ function App() {
           <Route path="/SoyabeanOil" element={<Soyabean />}></Route>
           <Route path="/MustardOil" element={<Mustard />}></Route>
           <Route path="/MildMustard" element={<MildMustard />}></Route>
+          <Route path="/RiceBarn" element={<RiceBarn />}></Route>
           <Route path="/CastorSinglepro" element={<CastorSinglepro />}></Route>
           <Route path="/GoldPalmoleinOil" element={<GoldPalmolein />}></Route>
           <Route path="/AboutUS" element={<AboutUS />}></Route>

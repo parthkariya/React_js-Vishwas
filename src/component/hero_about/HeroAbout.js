@@ -43,7 +43,7 @@ const HeroAbout = () => {
                 supplier of various edible oils. The group offers a qualitative
                 range of edible oils, including Refined Sunflower Oil, Refined
                 Cottonseed Oil, Refined Corn Oil, Refined Soybean Oil, Active
-                Frying Oil, Filtered Mustard Oil Kachi Ghani, Filtered Mild Mustard Oil and Refined Palmolein Oil. The group emphasizes the
+                Frying Oil, Filtered Mustard Oil Kachi Ghani,Refined Rice Bran Oil, Filtered Mild Mustard Oil and Refined Palmolein Oil. The group emphasizes the
                 belief that creating something of lasting value requires
                 persistent efforts over time. Vishwas Group continuously works
                 to upgrade its packaging facilities and conducts ongoing
@@ -168,7 +168,7 @@ const HeroAbout = () => {
               Refoils & Consumer Limited has expanded its product range to
               include various refined oils, such as Refined Sunflower Oil, Corn
               Oil, Cotton Seed Oil, Soybean Oil, Palmolein Oil, Double Filtered
-              Groundnut Oil, Castor Oil, Filtered Mustard Oil Kachi Ghani, Filtered Mild Mustard Oil and Active Frying Oil and even in all
+              Groundnut Oil, Castor Oil, Filtered Mustard Oil Kachi Ghani, Refined Rice Bran Oil, Filtered Mild Mustard Oil and Active Frying Oil and even in all
               the types of packaging varities ranging from 500 ml pouches, 500
               ml bottles, 1 litre pouch, 1 litre bottle, 2 litre jar, 5 litre
               jar, 15 litre tin and 15 kg tin.

@@ -143,7 +143,8 @@
   font-weight: 800;
   color: darkred;
   margin: 0px;
-  margin-top: -45px;
+  /* margin-top: -45px; */
+  margin-top: -4px;
 }
 
 .our-jour-img {
@@ -279,6 +280,7 @@
 
   .our-jour-side-since2 {
     font-size: 96px;
+    margin-top: 48px;
   }
 
   .our-jour-img {
@@ -359,6 +361,10 @@
 
   .our-jour-con-part33 {
     right: 22px;
+  }
+
+  .our-jour-con2{
+    height: 90%;
   }
 }
 

@@ -361,7 +361,7 @@ const Journey = () => {
                 <div className="our-jour-con-part1">
                   <div className="our-jour-des-head">
                     <div className="line-jouny"></div>
-                    <p className="our-jour-since">EARLY 1966</p>
+                    <p className="our-jour-since">EARLY 1996</p>
                   </div>
 
                   <p className="our-jour-des">
@@ -373,7 +373,7 @@ const Journey = () => {
                 <div className="our-jour-con-part2">
                   <div className="our-jour-since-posotion">
                     <p className="our-jour-side-since">Early</p>
-                    <p className="our-jour-side-since2">1966</p>
+                    <p className="our-jour-side-since2">1996</p>
                     <img src={images.our_jour_img} className="our-jour-img" />
                   </div>
                 </div>
